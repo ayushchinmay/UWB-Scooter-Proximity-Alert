@@ -1,7 +1,7 @@
 /**
  *  Project: MPU6050 Velocity Measurement
  *
- *  Description: Uses the MPU6050 9-DoF Inertial Measurement Unit to calculate linear velocity, and heading
+ *  Description: Uses the MPU6050 6-DoF Inertial Measurement Unit to calculate linear velocity, and heading
  *
  *  Author          : Ayush Chinmay
  *  Date Created    : 19 Oct 2023
