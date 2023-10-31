@@ -1,0 +1,7 @@
+## TO INSTALL THE ESP32-BOARDS IN ARDUINO IDE
+
+1) File > Preferences (CTRL + ,)
+2) Additional Boards Manager URLs: <Paste the following...>
+	"https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json"
+3) Tools > Board > Boards Manager... (CTRL + SHIFT + B)
+4) Search: "esp32 by Espressif" > INSTALL
